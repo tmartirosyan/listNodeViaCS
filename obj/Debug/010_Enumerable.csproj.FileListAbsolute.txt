@@ -1,0 +1,6 @@
+C:\Users\tigran\Desktop\Tigran\c#\OwnListTestApplicationsMicLab\Lesson_IEnumerable\Mic.Lesson_Enumerable\010_Enumerable\bin\Debug\010_Enumerable.exe.config
+C:\Users\tigran\Desktop\Tigran\c#\OwnListTestApplicationsMicLab\Lesson_IEnumerable\Mic.Lesson_Enumerable\010_Enumerable\bin\Debug\010_Enumerable.exe
+C:\Users\tigran\Desktop\Tigran\c#\OwnListTestApplicationsMicLab\Lesson_IEnumerable\Mic.Lesson_Enumerable\010_Enumerable\bin\Debug\010_Enumerable.pdb
+C:\Users\tigran\Desktop\Tigran\c#\OwnListTestApplicationsMicLab\Lesson_IEnumerable\Mic.Lesson_Enumerable\010_Enumerable\obj\Debug\010_Enumerable.csproj.CoreCompileInputs.cache
+C:\Users\tigran\Desktop\Tigran\c#\OwnListTestApplicationsMicLab\Lesson_IEnumerable\Mic.Lesson_Enumerable\010_Enumerable\obj\Debug\010_Enumerable.exe
+C:\Users\tigran\Desktop\Tigran\c#\OwnListTestApplicationsMicLab\Lesson_IEnumerable\Mic.Lesson_Enumerable\010_Enumerable\obj\Debug\010_Enumerable.pdb
